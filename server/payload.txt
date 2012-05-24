@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<methodCall>
+  <methodName>pingback.ping</methodName>
+  <params>
+    <param>
+      <value>http://test/blog/</value>
+    </param>
+    <param>
+      <value>https://blog.disconnect.me/fbme</value>
+    </param>
+  </params>
+</methodCall>

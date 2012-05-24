@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<methodResponse>
+  <params>
+    <param>
+      <value>
+      <string>Pingback from http://blog.name1price.com/2012/05/test-3/ to https://blog.disconnect.me/fbme registered. Keep the web talking! :-)</string>
+      </value>
+    </param>
+  </params>
+</methodResponse>
