@@ -19,7 +19,6 @@
         "url" : "",
         "querystring" : "",
         "libxmljs" : "",
-        "connect" : "",
-        "qs" : ""
+        "connect" : ""
     }
 }
