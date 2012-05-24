@@ -13,6 +13,9 @@ app.configure ->
   app.use app.router
   app.use express.static(__dirname + "/public")
 
+app.get '/', (req, res)->
+  res.send('Ping Back Usage <br> POST Method <br>Variables : link & linkedTo ')
+
 app.post '/', (req, res) ->
   link = req.body.link
   linkedTo = req.body.linkedTo

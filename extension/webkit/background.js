@@ -14,7 +14,7 @@ function doPingBack(info, tab) {
   var params = "link="+link+"&linkedTo="+linkedTo;
   var xhr = new XMLHttpRequest();
   xhr.open("POST", 
-  	"http://pingback.disconnect.me/", true);
+  	"http://ping.disconnect.me/", true);
 
   xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
   xhr.onreadystatechange = function() {
