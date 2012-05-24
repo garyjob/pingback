@@ -18,6 +18,8 @@
         "ejs" : "",
         "url" : "",
         "querystring" : "",
-        "libxmljs" : ""
+        "libxmljs" : "",
+        "connect" : "",
+        "qs" : ""
     }
 }
